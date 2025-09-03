@@ -264,10 +264,10 @@ It serves as a strong foundation for **medical AI research** and is suitable for
 
 ## 📬 Contact & License
 
-**Author**: satish varma 
+**Author**: CH Pavan Kumar
 **Institution**: Srkr Engineering College – B.Tech in CSBS  
-**Email**: satishvarmaoleti09@.com  
-**GitHub**: @satish811  https://github.com/satish811
+**Email**: pavankumarch285@gmail.com  
+**GitHub**: @pavankumar-285 (https://github.com/pavankumar-285)
 
 
 
