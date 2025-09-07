@@ -89,31 +89,28 @@ Key Features:
 
 ---
 
-## 📈 Results & Visualizations
-
-### 🔍 Misclassified Samples
-![Misclassified Samples](misclassified_samples.png)
-
-> Examples of ambiguous cases where model predictions were incorrect.
-
----
-
 ### 📊 Probability Distribution
-![Probability Distribution](probability_distribution.png)
+![Probability Distribution]
+<img width="2400" height="1200" alt="probability_distribution" src="https://github.com/user-attachments/assets/c56b4273-4e10-4aa7-a3db-baa8725a15c3" />
+
 
 > Distribution of predicted probabilities for benign and malignant classes.
 
 ---
 
 ### 📉 ROC Curve
-![ROC Curve](roc_curve.png)
+![ROC Curve]
+<img width="1800" height="1800" alt="roc_curve" src="https://github.com/user-attachments/assets/7060357d-9548-4df1-9a9e-b54b64fdd4a7" />
+
 
 > ROC AUC = 0.54 — Indicates baseline discrimination ability.
 
 ---
 
 ### 📐 Precision-Recall Curve
-![Precision-Recall Curve](precision_recall_curve.png)
+![Precision-Recall Curve]
+<img width="1800" height="1800" alt="precision_recall_curve" src="https://github.com/user-attachments/assets/5c22b5d1-0e44-496c-a592-5530a6883b69" />
+
 
 > PR AUC = 0.69 — Stronger indicator of performance on imbalanced data.
 
