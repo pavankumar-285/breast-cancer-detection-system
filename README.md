@@ -89,6 +89,14 @@ Key Features:
 
 ---
 
+### Output Samples
+![Outputs]
+![WhatsApp Image 2025-09-07 at 09 51 12_cbe8dc06](https://github.com/user-attachments/assets/f881a0e3-d5fa-4865-bbd7-36149f1fdb40)
+![WhatsApp Image 2025-09-07 at 09 51 12_c8954678](https://github.com/user-attachments/assets/87eb20cc-f8b6-4f2b-ab6b-a55da3f31292)
+![WhatsApp Image 2025-09-07 at 09 51 12_bd2bac0f](https://github.com/user-attachments/assets/8ae203aa-39b2-4ba9-b7aa-ccb5628da292)
+
+---
+
 ### 📊 Probability Distribution
 ![Probability Distribution]
 <img width="2400" height="1200" alt="probability_distribution" src="https://github.com/user-attachments/assets/c56b4273-4e10-4aa7-a3db-baa8725a15c3" />
